@@ -63,4 +63,4 @@ const week10 = 100 * 2**10 //100 plants doubled for the duration of 10 weeks
  }
  //what should radius be?
  // area = radius^2 * pi
- //
+ //radius = (area / pi)^1/2
